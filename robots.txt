@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://empek-empek.github.io/palembang-berita/sitemap.xml
